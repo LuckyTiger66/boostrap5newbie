@@ -69,7 +69,6 @@ img{
 	margin: 0 auto;
 }
 /* CSS Reset end */
-
 .header {
 	display: flex;
 	justify-content: space-between;
@@ -115,7 +114,7 @@ img{
 }
 
 .menu li a {
-	background: #3399FF;
+	background: #39F;
 	color: #fff;
 	display: block;
 	font-weight: bold;
@@ -127,7 +126,7 @@ img{
 	background: orange;
 }
 
-@media(max-width: 768px) {
+@media(max-width:768px) {
 	.menu li {
 		width: 50%;
 		margin: 0 auto 10px auto;
@@ -174,7 +173,6 @@ img{
 	.content,
 	.sidebar {
 		width: 100%;
-		/* 百分比呈現寬度 */
 	}
 
 	.content {
