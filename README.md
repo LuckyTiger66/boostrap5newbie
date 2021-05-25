@@ -3,8 +3,7 @@
 
 ## week 1
 *  CSS RWD 切版 LV1  
-[DEMO](https://luckytiger66.github.io/boostrap5newbie/week1/)
-
+<a href="https://luckytiger66.github.io/boostrap5newbie/week1/" target="_blank" title="week1Lv1">Demo</a>
 ## week 2
 
 ## week 3
